@@ -6,13 +6,22 @@ body{
   font-family: 'Open Sans', sans-serif;
   color: #7D8084;
 }
+
 h1{
   color:red;
+
 }
 h2 {
   color: #7D8084;
 }
-
+p{
+  font-size: 20px;
+  text-align: justify;
+ margin: 10px;
+}
+.couleur{
+  color: #D3D3D3;
+}
 .profil{
   border-radius: 100px;
   width: 150px;
