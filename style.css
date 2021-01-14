@@ -54,19 +54,15 @@ li{
 .container {
   display: flex;
   align-items: center;
-  /*justify-content: center;*/
-}
-.movies{
-  margin-top: 20px;
 }
 .text {
-  display: flex;
+  display: inline-block;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  color:  #7D8084;
   margin-top: -40px;
   font-size: 18px;
+  line-height:25px;
 }
 .presentation{
   background-color: white;
